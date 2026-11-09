@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pt
+status.json
+*.tmp
+.streamlit/
+
+.ultralytics/
+test_artifacts/
+mqtt_config.json
